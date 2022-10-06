@@ -88,7 +88,7 @@ text-align: center;
 width: 80%;
  font-size:  110%;
 font-weight: 600;
-background-color: #d342d3;
+/* background-color: violet; */
  color: black;
 
 
@@ -99,7 +99,7 @@ font-weight: 600;
  
 width: 60%;
  color: black;
-background-color: #64ef62;
+/* background-color: #64ef62; */
  
 
 }
@@ -109,7 +109,7 @@ font-weight: 600;
  
 width: 70%;
  color: black;
-background-color: #e92020;
+/* background-color: #e92020; */
  
 
 }
@@ -118,7 +118,7 @@ background-color: #e92020;
 font-weight: 600; 
  
 width: 30%;
-background-color:rgb(45, 158, 175);
+/* background-color:blue; */
  color: black;
 
 }
@@ -128,7 +128,7 @@ font-weight: 600;
  
 width: 40%;
  
-background-color: #ebe457f4;
+/* background-color: #ebe457f4; */
  color: black;
 
 }
@@ -138,7 +138,8 @@ font-weight: 600;
  
 width: 20%;
  color: black;
-background-color: #ed6912;}
+/* background-color: #ed6912; */
+}
 
  .new-sec-1{
 display: flex;
